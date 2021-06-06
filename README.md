@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @corybagozzi
 - 👀 I’m interested in learning more about JAMStack and headless ecosystems.
 - 🌱 I’m currently learning NuxtJS
-- 💞️ I’m looking to collaborate on something fun but so weird it should never be about making money, more artistic expression via technology.
+- 💞️ I’m looking to collaborate on something fun but so weird it could never be about making money, more artistic expression via technology.
 - 📫 corybagozzi.com or corybagozzi@gmail.com
 
 <!---
