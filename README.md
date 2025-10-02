@@ -1,30 +1,30 @@
 # Cory Bagozzi
 
 ## Mission
-#### Build great products for real people.  
-Products people love to use, that make life easier, and that either bring joy in the foreground or disappear into the background but would be profoundly disruptive if removed.  
+Build great products for real people.  
+> Products people love to use, that make life easier, and that either bring joy in the foreground or disappear into the background, but would be profoundly disruptive if removed.  
 
 ### Vision
-#### A world where product teams build with **clarity, accountability, and speed**, creating products that deliver real impact without unnecessary complexity or sacrificing trust.  
+A world where product teams build with **clarity, accountability, and speed**, creating products that deliver real impact without unnecessary complexity or sacrificing trust.  
 
 ---
 
 ## Principles
 
 #### Momentum is a discipline
-Progress doesn’t come from heroic sprints or chaotic bursts. It comes from steady, predictable momentum. The best teams build systems that keep moving forward even under pressure.  
+> Progress doesn’t come from heroic sprints or chaotic bursts. It comes from steady, predictable momentum. The best teams build systems that keep moving forward even under pressure.  
 
 #### Clarity beats consensus
-Consensus often slows teams down or hides hard truths. Clarity — knowing exactly what we’re doing, why, and who owns it — unlocks speed and trust.  
+> Consensus often slows teams down or hides hard truths. Clarity: knowing exactly what we’re doing, why, and who owns it unlocks speed and trust.  
 
 #### Execution matters more than ideas
-The world is full of ideas. Execution is what separates teams that talk from teams that deliver.  
+> The world is full of ideas. Execution is what separates teams that talk from teams that deliver.  
 
 #### Predictability and quality build trust
-Customers, teams, and leaders rely on the predictable delivery of quality products. Predictability builds confidence; quality builds trust.  
+> Customers, teams, and leaders rely on the predictable delivery of quality products. Predictability builds confidence. Quality builds trust.  
 
 #### Health is non-negotiable
-Products don’t succeed if the people building them are burning out or cutting ethical corners. Sustainable pace and principled leadership always come first.  
+> Products don’t succeed if the people building them are burning out or cutting ethical corners. Sustainable pace and principled leadership always come first.  
 
 ---
 
@@ -59,7 +59,7 @@ Products don’t succeed if the people building them are burning out or cutting 
 
 ### Collaboration Tips
 - **Be concise.** Short, clear communication beats long-winded explanations.  
-- **Bring data or examples.** Don’t just tell me something’s broken—show me.  
+- **Bring data or examples.** Show me, don’t just tell me, when something’s broken.  
 - **Respect time.** Come prepared, don’t wing it.  
 - **Challenge ideas, not people.** Push me if it makes the product better.  
-- **Don’t wait.** If you’re blocked, raise it early — I’d rather know than be surprised later.  
+- **Don’t wait.** If you’re blocked, raise it early so I can help.  
