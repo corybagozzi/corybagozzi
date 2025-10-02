@@ -1,11 +1,11 @@
 # Cory Bagozzi
 
-### Mission
-Build great products for real people.  
+## Mission
+#### Build great products for real people.  
 Products people love to use, that make life easier, and that either bring joy in the foreground or disappear into the background but would be profoundly disruptive if removed.  
 
 ### Vision
-A world where product teams build with **clarity, accountability, and speed**, creating products that deliver real impact without unnecessary complexity or sacrificing trust.  
+#### A world where product teams build with **clarity, accountability, and speed**, creating products that deliver real impact without unnecessary complexity or sacrificing trust.  
 
 ---
 
