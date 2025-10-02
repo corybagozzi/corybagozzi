@@ -1,7 +1,7 @@
 # Cory Bagozzi
 
 ### Mission
-Create great products for real people.  
+Build great products for real people.  
 Products people love to use, that make life easier, and that either bring joy in the foreground or disappear into the background but would be profoundly disruptive if removed.  
 
 ### Vision
